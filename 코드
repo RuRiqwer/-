@@ -1,0 +1,6 @@
+from rich.console import Console
+
+console = Console()
+
+console.print("[bold green]Hello, Open Source![/bold green]")
+console.print("Rich 오픈소스 라이브러리를 사용한 간단한 프로그램입니다.")
